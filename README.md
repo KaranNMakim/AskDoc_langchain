@@ -15,5 +15,9 @@ File formats supported currenltly:
 
 Note: we can enable all document loaders provided by Langchain
 
+To Run: Install required libraries used in the notebook and run the whole notebook. 
+
+Your application will be availeble at the url mentioned at the end of the notebook (post run) https://127.0.0.1:8050 (generally)
+
 https://user-images.githubusercontent.com/14162482/236699502-c7204931-c291-41a0-93e2-2ae0e45312b3.mp4
 
