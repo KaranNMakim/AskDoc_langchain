@@ -15,4 +15,5 @@ File formats supported currenltly:
 
 Note: we can enable all document loaders provided by Langchain
 
+https://user-images.githubusercontent.com/14162482/236699502-c7204931-c291-41a0-93e2-2ae0e45312b3.mp4
 
